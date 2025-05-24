@@ -36,15 +36,15 @@
 
 ## 📷 Snapshots and Diagrams
 
-[media/Meditrackblockdiagram.jpg]
+[Block Diagram](media/Meditrackblockdiagram.jpg)
 
-[appphoto1.jpg]
+[Android app Home page1](media/appphoto1.jpg)
 
-[appphoto2.jpg]
+[Android app Home page2](media/appphoto2.jpg)
 
-[project1.jpg]
+[Project Photo1](media/project1.jpg)
 
-[project2.jpg]
+[Project Photo2](media/project2.jpg)
 ---
 
 ## 🔗 Firebase Data Nodes
