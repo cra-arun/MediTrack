@@ -36,15 +36,16 @@
 
 ## 📷 Snapshots and Diagrams
 
-![Block Diagram](media/Meditrackblockdiagram.jpg)
+<img src="media/Meditrackblockdiagram.jpg" alt="Block Diagram" width="700" />
 
-![Android app Home page1](media/appphoto1.jpg)
+<img src="media/appphoto1.jpg" alt="Android app Home page1" width="500" />
 
-![Android app Home page2](media/appphoto2.jpg)
+<img src="media/appphoto2.jpg" alt="Android app Home page2" width="500" />
 
-![project photo1](media/project1.jpg)
+<img src="media/project1.jpg" alt="project photo1" width="500" />
 
-![Project Photo2](media/project2.jpg)
+<img src="media/project2.jpg" alt="Project Photo2" width="500" />
+
 
 ---
 
