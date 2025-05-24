@@ -42,9 +42,10 @@
 
 [Android app Home page2](media/appphoto2.jpg)
 
-[Project Photo1](media/project1.jpg)
+[project photo1](media/project1.jpg)
 
 [Project Photo2](media/project2.jpg)
+
 ---
 
 ## 🔗 Firebase Data Nodes
