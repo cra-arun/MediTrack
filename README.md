@@ -36,7 +36,7 @@
 
 ## 📷 Snapshots and Diagrams
 
-<img src="media/Meditrackblockdiagram.jpg" alt="Block Diagram" width="700" />
+<img src="media/Meditrackblockdiagram.jpg" alt="Block Diagram" width="1000" />
 
 <img src="media/appphoto1.jpg" alt="Android app Home page1" width="500" />
 
