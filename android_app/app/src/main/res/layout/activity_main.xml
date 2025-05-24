@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/editTextHours1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="232dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="594dp"
+        android:hint="Hours for Servo 1" />
+
+    <EditText
+        android:id="@+id/editTextMinutes1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="91dp"
+        android:layout_marginEnd="235dp"
+        android:layout_marginBottom="595dp"
+        android:hint="Minutes for Servo 1" />
+
+    <EditText
+        android:id="@+id/editTextHours2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="229dp"
+        android:layout_marginTop="158dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="527dp"
+        android:hint="Hours for Servo 2" />
+
+    <EditText
+        android:id="@+id/editTextMinutes2"
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="161dp"
+        android:layout_marginEnd="234dp"
+        android:layout_marginBottom="528dp"
+        android:hint="Minutes for Servo 2" />
+
+    <EditText
+        android:id="@+id/editTextHours3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="231dp"
+        android:layout_marginTop="246dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="440dp"
+        android:hint="Hours for Servo 3" />
+
+    <EditText
+        android:id="@+id/editTextMinutes3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="242dp"
+        android:layout_marginEnd="237dp"
+        android:layout_marginBottom="444dp"
+        android:hint="Minutes for Servo 3" />
+
+    <EditText
+        android:id="@+id/editTextHours4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="234dp"
+        android:layout_marginTop="319dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="367dp"
+        android:hint="Hours for Servo 4" />
+
+    <EditText
+        android:id="@+id/editTextMinutes4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="317dp"
+        android:layout_marginEnd="235dp"
+        android:layout_marginBottom="368dp"
+        android:hint="Minutes for Servo 4" />
+
+    <Button
+        android:id="@+id/buttonSendData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="461dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginBottom="214dp"
+        android:text="Send Data" />
+
+
+</RelativeLayout>
